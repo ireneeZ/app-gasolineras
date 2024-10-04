@@ -10,15 +10,12 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=App-Gasolineras-Grupo3&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=App-Gasolineras-Grupo3)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=App-Gasolineras-Grupo3&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=App-Gasolineras-Grupo3)
 
+Aplicación realizada en el proyecto integrado del Grado en Ingeniería Informática de la Universidad de Cantabria (Mención en Ingeniería del Software). En este proyecto se buscaba combinar los conocimientos adquiridos en distintas asignaturas para desarrollar una aplicación para dispositivos móviles a medida según las especificaciones de un cliente. Se engloba todo el proyecto desde la captura de requisitos y el diseño a la realización de la aplicación mediante una metodología ágil (Scrum), así como toda la documentación y pruebas del proceso de desarrollo.
 
-Contiene un proyecto base con la estructura de directorios a utilizar en el proyecto integrado de ingeniería del software de la UC. 
-
-Además incluye un prototipo de aplicación con algunas funcionalidades básicas que consisten en la carga de datos remotos, su visualización en formato lista e individualizada en formato vista de detalle.
+Se trata de una aplicación Android que permite la consulta de los precios de combustibles en las distintas gasolineras de Cantabria, diseñada para facilitar la gestión de los repostajes a los transportistas. En la página principal se muestra un listado con los precios de todas las gasolineras, que pueden ser filtradas en función del precio y la distancia con respecto a la posición actual del vehículo. La información de las gasolineras también puede consultarse en una vista de detalle. Igualmente, permite que los transportistas comprueben su listado de convenios (gasolineras o franquicias con las cuales su empresa tiene algún tipo de descuento) y el histórico de respostajes.
 
 ![](estructura.jpg)
 
 Diagrama de la arquitectura Model-View-Presenter del sistema.
 
 ![](Docs/Models/Arquitectura.png)
-
-Proyecto realizado en el curso 22-23
