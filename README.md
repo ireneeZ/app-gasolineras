@@ -24,8 +24,10 @@ Diagrama de la arquitectura Model-View-Presenter del sistema.
 
 ## Habilidades y lenguajes
 
-| Elemento	| Lenguajes					|
-|--------------	|-----------------------------------------------|
-| Android app	| Android Studio, Java				|
-| Testing	| Gradle, Espresso, JUnit, Mockito		| 
-| Arquitectura	| Arquitectura MVP (Model-View-Presenter)	|
+| Elemento		| Lenguajes					|
+|-----------------------|-----------------------------------------------|
+| Android app		| Android Studio, Java				|
+| Testing		| Gradle, Espresso, JUnit, Mockito		| 
+| Calidad		| Sonarqube, Sonarcloud				| 
+| Automatización	| GitHub Actions				|
+| Arquitectura		| Arquitectura MVP (Model-View-Presenter)	|
