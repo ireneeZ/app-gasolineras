@@ -47,7 +47,7 @@ jobs:
           
             # Integration Tests
             - name: Android UI tests
-              uses: reactivecircus/android-emulator-runner@v4
+              uses: reactivecircus/android-emulator-runner@v2
               with:
                 api-level: 27  # api level > 27 seems to be failing at sdk installation step
                 working-directory: ./AndroidProject
